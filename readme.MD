@@ -1,4 +1,4 @@
-#Random fun
+# Random fun
 
 Application to practise using HTML, CSS and JavaScript.
 
